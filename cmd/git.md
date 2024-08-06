@@ -41,10 +41,11 @@ git push -u origin "master"
 
 ## 分支提交
 ```
-
+git add .
 ```
 
 ## 冲突解决
-```
-
-```
+### VSCODE
+1. 在 git tree 中 staged changes 和 changes 一级菜单上点击 **stash all changes**，保存现场
+2. pull 远程分支
+3. pop stash 选择变更进行 merge
