@@ -5,5 +5,5 @@ Useful notes for personal studying and development.
 ```
 .
 ├─README.md
-└─cmd           # commands
+└─cmd                   # commands
 ```
